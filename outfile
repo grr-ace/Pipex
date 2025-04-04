@@ -1,0 +1,15 @@
+functions.c
+functions.o
+infile
+libft
+main.c
+main.o
+Makefile
+mouse
+out
+outfile
+pipex
+Pipex.h
+ut
+utils.c
+utils.o
